@@ -1,0 +1,24 @@
+# IntelliJ IDEA metadata
+.idea/
+*.iml
+
+# IntelliJ IDEA system files
+*.ipr
+*.iws
+
+# Project build/distribution folders
+out/
+target/
+build/
+
+# User-specific files
+*.log
+*.tmp
+*.swp
+
+# Personalized data of a plugin
+*.tmproj
+
+# Sensitive or high-churn files
+.DS_Store
+*.class
